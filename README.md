@@ -61,6 +61,6 @@ I enjoy building modern web applications, exploring cloud technologies, learning
 
 📫 Connect With Me
 
-- 💼 LinkedIn
-- 📧 Email
+- 💼 LinkedIn: in/chirag-borse-99ab33266
+- 📧 Email : chiragkborse@gmail.com
 - 🌐 Portfolio
