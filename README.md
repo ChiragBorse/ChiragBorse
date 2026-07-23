@@ -36,7 +36,7 @@ I enjoy building modern web applications, exploring cloud technologies, learning
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ---
 
-🎯 Currently Learning
+🎯 Focus on:-
 
 - Cloud Computing (AWS, Azure & GCP)
 - Artificial Intelligence
