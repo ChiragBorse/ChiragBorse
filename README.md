@@ -11,41 +11,31 @@ learning AI, and solving real-world problems through code.
 
 ### 🎯 Focus Areas
 
-- ☁️ Cloud Computing — AWS, Azure & GCP
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ⚙️ DevOps
-- 🗄️ MySQL & DBMS
-- 🧩 Data Structures & Algorithms
-- 💻 Software Development
-- 📱 Android Development
-- 🌐 Web Development
-- ☕ Java
-- 🐍 Python
-- ⚡ C++
+* ☁️ Cloud Computing — AWS, Azure & GCP
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* ⚙️ DevOps
+* 🗄️ MySQL & DBMS
+* 🧩 Data Structures & Algorithms
+* 💻 Software Development
+* 📱 Android Development
+* 🌐 Web Development
+* ☕ Java
+* 🐍 Python
+* ⚡ C++
 
 ---
 
 ## 💡 Currently
 
-| 🛠️ Building | 🌱 Learning | ☕ Living |
-|-------------|-------------|-----------|
-| CodeScan | AI Agents | Tea |
-| AI-powered debugging platform | LLMs | Anime |
-| Security & developer tools | Automation | Astronomy |
-| Modern software projects | Cloud | Open Source |
+| 🛠️ Building                  | 🌱 Learning | ☕ Living    |
+| ----------------------------- | ----------- | ----------- |
+| CodeScan                      | AI Agents   | Tea         |
+| AI-powered debugging platform | LLMs        | Anime       |
+| Security & developer tools    | Automation  | Astronomy   |
+| Modern software projects      | Cloud       | Open Source |
 
 > *Building products that feel simple on the outside and powerful underneath.*
-
----
-
-## 📈 GitHub Analytics
-
-> *"Every green square is another step forward."*
-
-<p align="center">
-  <img src="./assets/github-analytics-saffron.png" alt="GitHub Analytics" width="900">
-</p>
 
 ---
 
@@ -67,42 +57,36 @@ learning AI, and solving real-world problems through code.
 
 ## 🎯 GitHub Goals
 
-- 🚀 Build impactful Open Source projects
-- 📚 Learn and contribute every day
-- 🏗️ Create scalable software solutions
-- 🧠 Improve problem-solving skills
-- ⚙️ Strengthen system design knowledge
-- ☁️ Explore modern cloud technologies
-- 🤖 Build practical AI-powered applications
+* 🚀 Build impactful Open Source projects
+* 📚 Learn and contribute every day
+* 🏗️ Create scalable software solutions
+* 🧠 Improve problem-solving skills
+* ⚙️ Strengthen system design knowledge
+* ☁️ Explore modern cloud technologies
+* 🤖 Build practical AI-powered applications
 
 ---
 
 ## 🌱 What I'm Exploring
 
-- AI Agents & LLM Applications
-- Cloud Architecture
-- DevOps & Automation
-- Backend Development
-- System Design
-- Open Source
-- Modern Web Technologies
-- Developer Tools
+* AI Agents & LLM Applications
+* Cloud Architecture
+* DevOps & Automation
+* Backend Development
+* System Design
+* Open Source
+* Modern Web Technologies
+* Developer Tools
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: `in/chirag-borse-99ab33266`
-- 📧 Email: `chiragkborse@gmail.com`
-- 🌐 Portfolio: `https://chiragborse.github.io/Chirag_Portfolio/`
+* 💼 LinkedIn: `in/chirag-borse-99ab33266`
+* 📧 Email: `chiragkborse@gmail.com`
+* 🌐 Portfolio: `https://chiragborse.github.io/Chirag_Portfolio/`
 
 ---
-
-<p align="center">
-
-<img src="./assets/profile-footer-saffron.png" alt="Thanks for Visiting" width="900">
-
-</p>
 
 <p align="center">
 
